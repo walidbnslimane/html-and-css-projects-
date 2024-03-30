@@ -1,0 +1,28 @@
+
+h1{
+	text-align: center;
+	border: 5px solid rgb(228, 173, 193);
+}
+h2:hover{
+	text-align: center;
+	border: 5px solid rgb(79, 96, 143);
+}
+
+h1{
+	color: rgb(223, 128, 163);
+
+}
+body{
+	background-image: url(https://images.unsplash.com/photo-1572953745960-14685e3e9b49?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDV8Ym84alFLVGFFMFl8fGVufDB8fHx8fA%3D%3D);
+	background-size: cover;
+}
+h2{
+	color: rgb(163, 128, 223);
+}
+h1{
+	font-style: italic;
+	line-height: 35px
+}
+img{
+	float: left;
+}
